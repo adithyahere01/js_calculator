@@ -7,7 +7,7 @@ function display(num){
 }
 
 function Calculate(){
-  outputScreen.value = eval(outputScreen.value);
+    outputScreen.value = eval(outputScreen.value)
 }
 
 function Clear(){
